@@ -1,0 +1,19 @@
+#header {
+    height: 100px!important;
+}
+
+#header #navbar {
+    height: 100px!important;
+}
+
+#header #navbar div {
+    flex-direction: column;
+}
+
+#about .container #information {
+    display: none!important;
+}
+
+#contact .container form div{
+    column-fill: 12!important;
+}

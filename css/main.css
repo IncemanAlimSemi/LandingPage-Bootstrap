@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-padding-top: var(--scroll-padding, 74.5px);
+}
